@@ -1,4 +1,4 @@
-#ESP8266 RÖLE DEVRESİ
+# ESP8266 RÖLE DEVRESİ
 
 <div align="center">
 
@@ -34,24 +34,22 @@
 <b>Röle Devresi</b>
 </td>
 
-<tr>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/e61d9512-c223-42b7-baa6-ab3606816f72" width="320"><br>
 <b>Regülatör Devresi</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/c58a6911-8ecd-4453-980b-0385081fe218" width="320"><br>
-<b>Esp8266 Devresi</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/1e8af73a-4f03-46ee-8524-ff64e2b41c20" width="320"><br>
-<b>Pragramlama Devresi</b>
+<img src="https://github.com/user-attachments/assets/c58a6911-8ecd-4453-980b-0385081fe218" width="320"><br>
+<b>ESP8266 Devresi</b>
 </td>
-<td></td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/1e8af73a-4f03-46ee-8524-ff64e2b41c20" width="320"><br>
+<b>Programlama Devresi</b>
+</td>
 </tr>
 
 </table>
